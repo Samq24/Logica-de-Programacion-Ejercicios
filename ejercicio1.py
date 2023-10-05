@@ -1,7 +1,7 @@
 def tabla_multiplicar(numero):
     resultado = f'# Tabla del {numero} #'
     
-    print(resultado)  # Esta línea imprime el encabezado
+    print(resultado)
     
     for i in range(1, 11):
         multiplicacion = i * numero
