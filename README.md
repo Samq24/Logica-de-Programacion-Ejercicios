@@ -4,4 +4,4 @@ En este espacio, encontrarás una colección de ejercicios diseñados para ayuda
 Estos ejercicios están diseñados para programadores de todos los niveles, desde principiantes hasta avanzados. Ya sea que estés buscando práctica adicional o desees repasar conceptos clave de lógica de programación, este repositorio te será útil.
 
 Acá te dejo mi blog donde estaré explicando cada uno de los ejercicios conforme los vaya posteando.
-indepthdev4u.wordpress.com
+samqdigital.com/blog/
